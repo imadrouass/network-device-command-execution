@@ -21,7 +21,7 @@ This Python script allows users to execute commands on multiple network devices 
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your_username/network-device-command-execution.git
+    git clone https://github.com/imadrouass/network-device-command-execution.git
     ```
 
 2. Navigate to the project directory:
